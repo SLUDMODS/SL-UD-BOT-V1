@@ -12,32 +12,68 @@ global.APIKeys = {
 }
 
 global.alivemsg = `
+      ◉═════════════◉
 
-මම දැන් Online බං 😁
+          ~UD BOT V12.0~
 
-ඔයාට කොහොමද 😘
+      ◉═════════════◉
 
-ඔයාට menu එක ගන්න යට තියෙන Menu බටන් එක ඔබන්න😎
+│───────────────────◉
 
-යට තියෙන Link  එක ඔබල අපිව Subscribe  කරන්නත් අමතක කරන්න එපා 🤗
+│*මම දැන් Online  😁
 
-https://youtube.com/channel/UC4eIQOT9JdznytsprIUhE-w
+│
 
-අනේ අහිංසක මගේ Youtube channel  එක අනිවා subscribe කරන්න 😉
+│ඔයාට කොහොමද 😘*
 
-මගේ Owner  බලන්න යට තියෙන Owner  බටන් එක ඔබන්න 😎
+│───────────────────◉
 
-OUR Website = https://sl-ud-mods.yolasite.com/
-OUR BOT Group = https://chat.whatsapp.com/Js1wRUHBf2VBpkHAP114fD
-𝙄𝙈 𝙎𝙇 𝙐𝘿 𝘽𝙊𝙏
+│
 
-𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔 𝙎𝙇 𝙐𝘿 𝙏𝙀𝘾𝙃
+│*ඔයාට menu එක ගන්න යට තියෙන Menu බටන් එක ඔබන්න😎*
+
+│
+
+│───────────────────◉
+
+│*යට තියෙන Link  එක ඔබල අපිව Subscribe  කරන්නත් අමතක කරන්න එපා 🤗
+
+│
+
+│~  https://youtube.com/channel/UC4eIQOT9JdznytsprIUhE-w ~
+
+│
+
+│අනේ අහිංසක මගේ Youtube channel  එක අනිවා subscribe කරන්න 😉*
+
+│
+
+│───────────────────◉
+
+│*මගේ Owner  බලන්න යට තියෙන Owner  බටන් එක ඔබන්න 😎*
+
+│───────────────────◉
+
+│*OUR Website* =~ https://sl-ud-mods.yolasite.com/ ~
+
+│*OUR BOT Group* =~ https://chat.whatsapp.com/ ~Js1wRUHBf2VBpkHAP114fD
+
+│𝙄𝙈 𝙎𝙇 𝙐𝘿 𝘽𝙊𝙏
+
+│───────────────────◉
+
+│𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔 𝙎𝙇 𝙐𝘿 𝙏𝙀𝘾𝙃
+
+│ˢˡ ᵘᵈ ᵐᵒᵈˢ ᵒᶠᶜ
+
+
+│─────────────────────────────────────────────◉
 ` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -61,9 +97,9 @@ global.alivepic = `https://i.ibb.co/9snQGbf/repl.png` // alive picture \\ use "h
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
-global.antispam = "true" // To remove or block spammers
+global.antispam = "false" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
